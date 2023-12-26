@@ -1,0 +1,7 @@
+[
+    {
+        "model": "openchat_openchat-3.5-1210",
+        "base_url": "http://localhost:8000/v1",
+        "api_key": "EMPTY"
+    }
+]
